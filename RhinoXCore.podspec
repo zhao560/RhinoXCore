@@ -17,7 +17,7 @@ s.source       = { :git => "https://github.com/zhao560/RhinoXCore.git", :tag => 
 
 s.frameworks = 'UIKit', 'WebKit'
 
-s.vendored_frameworks =  ['RhinoXCore.framework']
+s.vendored_frameworks =  ['Frameworks/RhinoXCore.framework']
 
 #s.resource = ''
 
