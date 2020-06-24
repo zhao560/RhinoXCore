@@ -6,5 +6,5 @@ RhinoXCore is available through [CocoaPods](http://cocoapods.org). Simply add th
 use_frameworks!
 
 target '<Your Target Name>'
-pod 'RhinoXCore', '~> 1.0.0'
+pod 'RhinoXCore', '~> 1.0.2'
 ```
