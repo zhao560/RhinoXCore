@@ -12,7 +12,7 @@
 		041C6FA92479333D00CDB429 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 041C6FA72479333D00CDB429 /* LaunchScreen.storyboard */; };
 		041C6FAC2479333D00CDB429 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 041C6FAB2479333D00CDB429 /* main.m */; };
 		041C6FB4247933BA00CDB429 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 041C6FB3247933BA00CDB429 /* HomeViewController.m */; };
-		041C6FB724793FDB00CDB429 /* RhinoXCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 041C6FB624793FDB00CDB429 /* RhinoXCore.framework */; };
+		042DEDF324A302A40004D14D /* RhinoXCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 042DEDF224A302A40004D14D /* RhinoXCore.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		041C6FAB2479333D00CDB429 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		041C6FB2247933BA00CDB429 /* HomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
 		041C6FB3247933BA00CDB429 /* HomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
-		041C6FB624793FDB00CDB429 /* RhinoXCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = RhinoXCore.framework; sourceTree = "<group>"; };
+		042DEDF224A302A40004D14D /* RhinoXCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = RhinoXCore.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,7 +33,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				041C6FB724793FDB00CDB429 /* RhinoXCore.framework in Frameworks */,
+				042DEDF324A302A40004D14D /* RhinoXCore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -75,7 +75,7 @@
 		041C6FB524793FDB00CDB429 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				041C6FB624793FDB00CDB429 /* RhinoXCore.framework */,
+				042DEDF224A302A40004D14D /* RhinoXCore.framework */,
 			);
 			path = Frameworks;
 			sourceTree = SOURCE_ROOT;
