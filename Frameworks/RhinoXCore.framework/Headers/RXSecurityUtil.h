@@ -20,7 +20,7 @@ NS_ASSUME_NONNULL_BEGIN
 +(nullable NSString *) encryptAESString:(NSString *)string key:(NSString *)key;
 
 /**
- * 加密
+ * 解密
  * @string  解密字符串
  * @key  密码
  */
