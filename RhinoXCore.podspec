@@ -24,8 +24,8 @@ s.vendored_frameworks =  ['Frameworks/RhinoXCore.framework']
 
 #s.dependency 'SSZipArchive', '~> 2.2.3'
 
-s.dependency 'Bytedance-UnionAD','~>3.0.0.6'
+#s.dependency 'Bytedance-UnionAD','~>3.0.0.6'
 
-s.dependency 'GDTMobSDK','~>4.11.9'
+#s.dependency 'GDTMobSDK','~>4.11.9'
 
 end
