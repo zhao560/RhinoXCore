@@ -7,89 +7,77 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		041C6F9B2479333C00CDB429 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 041C6F9A2479333C00CDB429 /* AppDelegate.m */; };
-		041C6FA62479333D00CDB429 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 041C6FA52479333D00CDB429 /* Assets.xcassets */; };
-		041C6FA92479333D00CDB429 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 041C6FA72479333D00CDB429 /* LaunchScreen.storyboard */; };
-		041C6FAC2479333D00CDB429 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 041C6FAB2479333D00CDB429 /* main.m */; };
-		041C6FB4247933BA00CDB429 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 041C6FB3247933BA00CDB429 /* HomeViewController.m */; };
-		04FD457924B5B0AB00E210B3 /* RhinoXCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04FD457824B5B0AB00E210B3 /* RhinoXCore.framework */; };
+		040D435824B5B22A00B12D1A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 040D435724B5B22A00B12D1A /* AppDelegate.m */; };
+		040D435E24B5B22A00B12D1A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 040D435D24B5B22A00B12D1A /* ViewController.m */; };
+		040D436324B5B22B00B12D1A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 040D436224B5B22B00B12D1A /* Assets.xcassets */; };
+		040D436624B5B22B00B12D1A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 040D436424B5B22B00B12D1A /* LaunchScreen.storyboard */; };
+		040D436924B5B22B00B12D1A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 040D436824B5B22B00B12D1A /* main.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		041C6F962479333C00CDB429 /* RhinoXCore.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RhinoXCore.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		041C6F992479333C00CDB429 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		041C6F9A2479333C00CDB429 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		041C6FA52479333D00CDB429 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		041C6FA82479333D00CDB429 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		041C6FAA2479333D00CDB429 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		041C6FAB2479333D00CDB429 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		041C6FB2247933BA00CDB429 /* HomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
-		041C6FB3247933BA00CDB429 /* HomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
-		04FD457824B5B0AB00E210B3 /* RhinoXCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = RhinoXCore.framework; sourceTree = "<group>"; };
+		040D435324B5B22A00B12D1A /* RhinoXCore.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RhinoXCore.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		040D435624B5B22A00B12D1A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		040D435724B5B22A00B12D1A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		040D435C24B5B22A00B12D1A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		040D435D24B5B22A00B12D1A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		040D436224B5B22B00B12D1A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		040D436524B5B22B00B12D1A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		040D436724B5B22B00B12D1A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		040D436824B5B22B00B12D1A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		041C6F932479333C00CDB429 /* Frameworks */ = {
+		040D435024B5B22A00B12D1A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04FD457924B5B0AB00E210B3 /* RhinoXCore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		041C6F8D2479333C00CDB429 = {
+		040D434A24B5B22A00B12D1A = {
 			isa = PBXGroup;
 			children = (
-				041C6F982479333C00CDB429 /* RhinoXCore */,
-				041C6F972479333C00CDB429 /* Products */,
+				040D435524B5B22A00B12D1A /* RhinoXCore */,
+				040D435424B5B22A00B12D1A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		041C6F972479333C00CDB429 /* Products */ = {
+		040D435424B5B22A00B12D1A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				041C6F962479333C00CDB429 /* RhinoXCore.app */,
+				040D435324B5B22A00B12D1A /* RhinoXCore.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		041C6F982479333C00CDB429 /* RhinoXCore */ = {
+		040D435524B5B22A00B12D1A /* RhinoXCore */ = {
 			isa = PBXGroup;
 			children = (
-				04FD457724B5B0AB00E210B3 /* Frameworks */,
-				041C6F992479333C00CDB429 /* AppDelegate.h */,
-				041C6F9A2479333C00CDB429 /* AppDelegate.m */,
-				041C6FB2247933BA00CDB429 /* HomeViewController.h */,
-				041C6FB3247933BA00CDB429 /* HomeViewController.m */,
-				041C6FA52479333D00CDB429 /* Assets.xcassets */,
-				041C6FA72479333D00CDB429 /* LaunchScreen.storyboard */,
-				041C6FAA2479333D00CDB429 /* Info.plist */,
-				041C6FAB2479333D00CDB429 /* main.m */,
+				040D435624B5B22A00B12D1A /* AppDelegate.h */,
+				040D435724B5B22A00B12D1A /* AppDelegate.m */,
+				040D435C24B5B22A00B12D1A /* ViewController.h */,
+				040D435D24B5B22A00B12D1A /* ViewController.m */,
+				040D436224B5B22B00B12D1A /* Assets.xcassets */,
+				040D436424B5B22B00B12D1A /* LaunchScreen.storyboard */,
+				040D436724B5B22B00B12D1A /* Info.plist */,
+				040D436824B5B22B00B12D1A /* main.m */,
 			);
 			path = RhinoXCore;
 			sourceTree = "<group>";
 		};
-		04FD457724B5B0AB00E210B3 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				04FD457824B5B0AB00E210B3 /* RhinoXCore.framework */,
-			);
-			path = Frameworks;
-			sourceTree = SOURCE_ROOT;
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		041C6F952479333C00CDB429 /* RhinoXCore */ = {
+		040D435224B5B22A00B12D1A /* RhinoXCore */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 041C6FAF2479333D00CDB429 /* Build configuration list for PBXNativeTarget "RhinoXCore" */;
+			buildConfigurationList = 040D436C24B5B22B00B12D1A /* Build configuration list for PBXNativeTarget "RhinoXCore" */;
 			buildPhases = (
-				041C6F922479333C00CDB429 /* Sources */,
-				041C6F932479333C00CDB429 /* Frameworks */,
-				041C6F942479333C00CDB429 /* Resources */,
+				040D434F24B5B22A00B12D1A /* Sources */,
+				040D435024B5B22A00B12D1A /* Frameworks */,
+				040D435124B5B22A00B12D1A /* Resources */,
 			);
 			buildRules = (
 			);
@@ -97,24 +85,24 @@
 			);
 			name = RhinoXCore;
 			productName = RhinoXCore;
-			productReference = 041C6F962479333C00CDB429 /* RhinoXCore.app */;
+			productReference = 040D435324B5B22A00B12D1A /* RhinoXCore.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		041C6F8E2479333C00CDB429 /* Project object */ = {
+		040D434B24B5B22A00B12D1A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1130;
 				ORGANIZATIONNAME = daidia;
 				TargetAttributes = {
-					041C6F952479333C00CDB429 = {
+					040D435224B5B22A00B12D1A = {
 						CreatedOnToolsVersion = 11.3.1;
 					};
 				};
 			};
-			buildConfigurationList = 041C6F912479333C00CDB429 /* Build configuration list for PBXProject "RhinoXCore" */;
+			buildConfigurationList = 040D434E24B5B22A00B12D1A /* Build configuration list for PBXProject "RhinoXCore" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -122,46 +110,46 @@
 				en,
 				Base,
 			);
-			mainGroup = 041C6F8D2479333C00CDB429;
-			productRefGroup = 041C6F972479333C00CDB429 /* Products */;
+			mainGroup = 040D434A24B5B22A00B12D1A;
+			productRefGroup = 040D435424B5B22A00B12D1A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				041C6F952479333C00CDB429 /* RhinoXCore */,
+				040D435224B5B22A00B12D1A /* RhinoXCore */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		041C6F942479333C00CDB429 /* Resources */ = {
+		040D435124B5B22A00B12D1A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				041C6FA92479333D00CDB429 /* LaunchScreen.storyboard in Resources */,
-				041C6FA62479333D00CDB429 /* Assets.xcassets in Resources */,
+				040D436624B5B22B00B12D1A /* LaunchScreen.storyboard in Resources */,
+				040D436324B5B22B00B12D1A /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		041C6F922479333C00CDB429 /* Sources */ = {
+		040D434F24B5B22A00B12D1A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				041C6F9B2479333C00CDB429 /* AppDelegate.m in Sources */,
-				041C6FAC2479333D00CDB429 /* main.m in Sources */,
-				041C6FB4247933BA00CDB429 /* HomeViewController.m in Sources */,
+				040D435E24B5B22A00B12D1A /* ViewController.m in Sources */,
+				040D435824B5B22A00B12D1A /* AppDelegate.m in Sources */,
+				040D436924B5B22B00B12D1A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		041C6FA72479333D00CDB429 /* LaunchScreen.storyboard */ = {
+		040D436424B5B22B00B12D1A /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				041C6FA82479333D00CDB429 /* Base */,
+				040D436524B5B22B00B12D1A /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -169,7 +157,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		041C6FAD2479333D00CDB429 /* Debug */ = {
+		040D436A24B5B22B00B12D1A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -227,7 +215,7 @@
 			};
 			name = Debug;
 		};
-		041C6FAE2479333D00CDB429 /* Release */ = {
+		040D436B24B5B22B00B12D1A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -279,18 +267,12 @@
 			};
 			name = Release;
 		};
-		041C6FB02479333D00CDB429 /* Debug */ = {
+		040D436D24B5B22B00B12D1A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Frameworks",
-				);
 				INFOPLIST_FILE = RhinoXCore/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -298,22 +280,16 @@
 				MARKETING_VERSION = 1.0.3;
 				PRODUCT_BUNDLE_IDENTIFIER = cn.rhinox.RhinoXCore;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		041C6FB12479333D00CDB429 /* Release */ = {
+		040D436E24B5B22B00B12D1A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Frameworks",
-				);
 				INFOPLIST_FILE = RhinoXCore/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -321,32 +297,32 @@
 				MARKETING_VERSION = 1.0.3;
 				PRODUCT_BUNDLE_IDENTIFIER = cn.rhinox.RhinoXCore;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		041C6F912479333C00CDB429 /* Build configuration list for PBXProject "RhinoXCore" */ = {
+		040D434E24B5B22A00B12D1A /* Build configuration list for PBXProject "RhinoXCore" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				041C6FAD2479333D00CDB429 /* Debug */,
-				041C6FAE2479333D00CDB429 /* Release */,
+				040D436A24B5B22B00B12D1A /* Debug */,
+				040D436B24B5B22B00B12D1A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		041C6FAF2479333D00CDB429 /* Build configuration list for PBXNativeTarget "RhinoXCore" */ = {
+		040D436C24B5B22B00B12D1A /* Build configuration list for PBXNativeTarget "RhinoXCore" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				041C6FB02479333D00CDB429 /* Debug */,
-				041C6FB12479333D00CDB429 /* Release */,
+				040D436D24B5B22B00B12D1A /* Debug */,
+				040D436E24B5B22B00B12D1A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 041C6F8E2479333C00CDB429 /* Project object */;
+	rootObject = 040D434B24B5B22A00B12D1A /* Project object */;
 }
